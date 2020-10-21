@@ -1,2 +1,2 @@
 # Googleplay-Predictions
-In depth data preprocessing and building ML models for predictions (incomplete/still working on it)
+In depth data preprocessing and ML model for predictions
